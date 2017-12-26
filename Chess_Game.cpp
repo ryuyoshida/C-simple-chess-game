@@ -1,13 +1,3 @@
-/**********|**********|**********|
-Program: TT01_A2_NABIL_FARHAN.cpp
-Course: TCP1101 Programming Fundamentals
-Year: 2016/17 Trimester 2
-Name: NABIL FARHAN BIN MAHMAD ZULHASNAN	
-ID: 1141128645
-Email: nnabilfarhan@gmail.com
-Phone: 017-6730017
-**********|**********|**********/
-
 #include <iostream>
 #include <vector>   // Vectors are sequence containers representing arrays that can change in size
 #include <cstdlib>	// srand()
