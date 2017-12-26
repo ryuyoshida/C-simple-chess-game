@@ -1,12 +1,3 @@
-/**********|**********|**********|
-Program: TC01_NABIL_FARHAN.cpp
-Course: BACHELOR OF COMPUTER SCIENCE
-Year: 2016/17 Trimester 2
-Name: NABIL FARHAN BIN MAHMAD ZULHASNAN
-ID: 1141128645
-Email: nnabilfarhan@gmail.com
-Phone: 017-6730017
-**********|**********|**********/
 //library that have been used in this program
 #include <iostream>
 #include <cstdlib>
