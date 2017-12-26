@@ -1,3 +1,4 @@
+/*Nabil Farhan*/
 #include <iostream>
 #include <vector>   // Vectors are sequence containers representing arrays that can change in size
 #include <cstdlib>	// srand()
